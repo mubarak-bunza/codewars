@@ -1,5 +1,6 @@
 def diamond(n):
     diamond = ''
+    print(n)
     if n%2 == 0 or n < 0:
         return None
     else:
@@ -16,4 +17,3 @@ def diamond(n):
                 starntive -= 2 
                 space += 1
     return diamond
- 
