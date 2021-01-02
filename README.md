@@ -1,2 +1,5 @@
-## My Kata Solutions
-this repo contains my codewars kata solutions.
+## Codewars Kata Solutions
+this repo contains codewars kata solutions.
+
+## How to Contirbute
+-
